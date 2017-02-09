@@ -27,6 +27,12 @@ var quotes = [
     '"Make Healthy Choices"',
     '"Hey guys __ here back with another video"',
     '"Extra?!"',
+    '"Im sorry I have to go take a photo"',
+    '"If its red your dead"',
+    '"Go make a blog!"',
+    '"If youre reading this you dont need glasses"',
+    '"Last years reveal video"',
+    '"Your not just editing a video,youre making a story"',
    
     
            
