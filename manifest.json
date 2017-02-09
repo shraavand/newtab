@@ -1,0 +1,11 @@
+{
+"name": "This is a Test",
+"description": "Can it work that is the question",
+"version": "1.0.0",
+"background": { "scripts": ["javascript.js"] },
+ "permissions": [ "webNavigation", "*://*/*" ],
+"manifest_version": 2,
+"chrome_url_overrides" : { 
+ "newtab": "index.html"
+}
+}
