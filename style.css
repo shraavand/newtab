@@ -1,7 +1,7 @@
 body {
      background-color: #000000;
-     -webkit-animation: random 60s infinite;
-     animation: random 60s infinite;
+     -webkit-animation: random 100s infinite;
+     animation: random 100s infinite;
      font-family:'Montserrat', sans-serif;
     font-size:300%;
     
