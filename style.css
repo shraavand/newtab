@@ -34,10 +34,10 @@ body {
 YOU CAN USE LIKE IT TOO :d
 */
 clock {
-position: absolute;
+position: absolute
+position:relative;
 bottom: 2px;
-right: 2px;
-    
+right: 2px; 
 }
     
     
