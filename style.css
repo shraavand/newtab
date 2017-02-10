@@ -4,6 +4,8 @@ body {
      animation: random 100s infinite;
      font-family:'Montserrat', sans-serif;
     font-size:300%;
+    position: absolute
+
     
 }
 @keyframes  random {
@@ -34,7 +36,6 @@ body {
 YOU CAN USE LIKE IT TOO :d
 */
 clock {
-position: absolute
 position:relative;
 bottom: 2px;
 right: 2px; 
