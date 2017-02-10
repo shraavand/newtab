@@ -1,11 +1,9 @@
 var quotes = [
     '"I thought you put it on afterwards"',
-    '"WHAAAAAATTTTTTTTTT"',
     '"Whats wrong with that?"',
     '"2+2=orange, look under the storage"',
     '"OHM is a hottie"',
     '"Whats up guys omega herobrine back with another video"',
-    '"Dont let your dreams be memes"',
     '"Perhaps two easy"',
     '"Via an array of sunshine"',
     '"28 point lead"',
