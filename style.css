@@ -33,7 +33,10 @@ body {
 }
 YOU CAN USE LIKE IT TOO :d
 */
-
+clock {
+position: absolute;
+bottom: 2px;
+right: 2px;
     
 }
     
