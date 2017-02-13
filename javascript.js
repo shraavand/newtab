@@ -26,6 +26,7 @@ var quotes = [
     '"If youre reading this you dont need glasses"',
     '"Last years reveal video"',
     '"Your not just editing a video,youre making a story"',
+    '"I dont speak gujurathi"',
    
     
            
