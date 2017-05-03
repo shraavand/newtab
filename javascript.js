@@ -27,6 +27,10 @@ var quotes = [
     '"Last years reveal video"',
     '"Your not just editing a video,youre making a story"',
     '"I dont speak gujurathi"',
+    '"You will thank me later"',
+    '"My pants give me headaches"',
+    '"Oh I know why I have a headache!"',
+    
    
     
            
